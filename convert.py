@@ -1,3 +1,5 @@
+# RetroTunes (C) Sebastian Humm (botsquarebot@gmail.com) and Christopher Frenning (christopher@frenning.com) 2023
+
 print("RetroTunes MP3 Converter/0.1a")
 
 from pydub import AudioSegment
